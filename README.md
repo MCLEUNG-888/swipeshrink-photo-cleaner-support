@@ -1,0 +1,1 @@
+# swipeshrink-photo-cleaner-support
